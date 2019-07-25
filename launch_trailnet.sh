@@ -1,0 +1,1 @@
+rosrun caffe_ros caffe_ros_node __name:=trails_dnn _prototxt_path:=/home/nvidianav/redtail/models/pretrained/TrailNet_SResNet-18.prototxt _model_path:=/home/nvidianav/redtail/models/pretrained/TrailNet_SResNet-18.caffemodel _output_layer:=out _use_fp16:=true
